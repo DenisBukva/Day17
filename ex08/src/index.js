@@ -24,7 +24,7 @@ function findUser(lastName, gender) {
             return iFindUser;
     } catch (error) {
          
-        return "Cannot read property 'firsName' of undefind";
+        return "Cannot read property 'firstName' of undefined";
         
        
     }
